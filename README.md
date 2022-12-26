@@ -21,3 +21,5 @@ To be noted:
 
 !!!!IMPORTANT!!!!
 The file you are looking for is called InterfataTest, contained within the GUI package, and you have to run it as java application.
+
+Copyright Andreea-7
